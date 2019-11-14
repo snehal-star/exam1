@@ -1,4 +1,7 @@
 
-bvhhxjg I am changing same file
-hjwgbb this is modified from exam2
-vbv
+
+
+=======
+hi helloehbshjbhjhn
+ hello this is correct
+>>>>>>> 02ff8d14c1f29ed4d56fd0435a1254ee6cf937c5
